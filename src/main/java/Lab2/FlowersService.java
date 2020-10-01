@@ -9,10 +9,11 @@ public class FlowersService {
     /**
      * Поиск по имени
      */
-    public static Flower findPersonByName(List<Flower> flowers, String searchName) { Flower result = null;
+    public static Flower findFlowersByName(List<Flower> flowers, String searchName) {
+        Flower result = null;
 
         for (Flower flower : flowers) {
-            if (flower.getFirstName().equals(searchName)) {
+            if (flower.getName().equals(searchName)) {
                 result = flower;
             }
         }

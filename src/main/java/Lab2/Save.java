@@ -1,6 +1,6 @@
 package Lab2;
 
-import Lab1.Person;
+import Lab1.Flower;
 import com.google.gson.Gson;
 
 import java.io.File;
@@ -11,7 +11,7 @@ import java.util.List;
 
 public class Save {
 
-    public static void savePersonList(List<Person> persons) throws IOException {
+    public static void saveFlowerList(List<Flower> persons) throws IOException {
 
         if (persons != null && persons.size() > 0) {
             Gson gson = new Gson();
