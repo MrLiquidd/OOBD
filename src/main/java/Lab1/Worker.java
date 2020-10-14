@@ -1,11 +1,17 @@
 package Lab1;
 
-import Lab1.Person;
-
 public class Worker extends Person {
-    private boolean isDeliver;
+
+    private String Deliver;
     public Worker(String name, String surname, String email, String password, boolean isDeliver) {
         super(name, surname, email, password);
-        this.isDeliver = isDeliver;
+        this.Deliver = Deliver;
+    }
+    public String getDeliver() {
+        return Deliver;
+    }
+
+    public void setPosition(String position) {
+        this.Deliver = Deliver;
     }
 }

@@ -1,15 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9c0b74e-1b14-49cf-a64f-8ad4f84893b5" name="Default Changelist" comment="">
+    <list default="true" id="a9c0b74e-1b14-49cf-a64f-8ad4f84893b5" name="Default Changelist" comment="Lab2">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orders.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab1/Magazine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab1/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab2/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Lab1/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Lab1/Flower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Lab1/Magazine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Lab1/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Lab1/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Lab1/Worker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Lab2/Load.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Lab2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Lab2/OrderService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Lab2/Save.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lab2/FlowersService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lab2/FlowersService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lab1/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lab1/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lab1/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lab1/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lab2/FlowersService.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Lab2/Load.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lab2/Load.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Lab2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lab2/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Lab2/Save.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lab2/Save.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,21 +46,35 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectId" id="1iGqIyfO2VW20bXVNxQbeGbH0O8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Museum" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -47,22 +82,12 @@
       <recent name="C:\Users\Вячечлав\IdeaProjects\OOBDM\src" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="15" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Lab2.Main" />
-      <module name="OOBDM" />
+      <module name="OOBD" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lab2.*" />
@@ -73,12 +98,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -89,8 +126,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601544200772</updated>
+      <workItem from="1601629031400" duration="850000" />
+      <workItem from="1601630081975" duration="11799000" />
+      <workItem from="1601989857367" duration="95000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -102,5 +145,56 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lab2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="423" width="433" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1601647904739">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="743" y="423" width="433" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.30.1920.1050@0.30.1920.1050" timestamp="1601647904739" />
+    <state x="545" y="30" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601647767563">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="545" y="30" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1601647767563" />
+    <state x="690" y="301" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601646706355">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="690" y="301" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1601646706355" />
+    <state x="585" y="123" key="CommitChangelistDialog2" timestamp="1601894280592">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="585" y="123" key="CommitChangelistDialog2/0.30.1920.1050@0.30.1920.1050" timestamp="1601894280592" />
+    <state x="761" y="379" key="FileChooserDialogImpl" timestamp="1601989959289">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="761" y="379" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1601989959289" />
+    <state width="1860" height="285" key="GridCell.Tab.0.bottom" timestamp="1601894268984">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1860" height="285" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1601894268984" />
+    <state width="1860" height="285" key="GridCell.Tab.0.center" timestamp="1601894268984">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1860" height="285" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1601894268984" />
+    <state width="1860" height="285" key="GridCell.Tab.0.left" timestamp="1601894268984">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1860" height="285" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1601894268984" />
+    <state width="1860" height="285" key="GridCell.Tab.0.right" timestamp="1601894268984">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1860" height="285" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1601894268984" />
+    <state x="461" y="199" key="SettingsEditor" timestamp="1601894490902">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="461" y="199" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1601894490902" />
+    <state x="552" y="287" key="Vcs.Push.Dialog.v2" timestamp="1601894506010">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="552" y="287" key="Vcs.Push.Dialog.v2/0.30.1920.1050@0.30.1920.1050" timestamp="1601894506010" />
   </component>
 </project>
