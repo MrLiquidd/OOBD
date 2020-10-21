@@ -1,7 +1,11 @@
 package Lab1;
 
+import javax.xml.bind.annotation.XmlElement;
+import javax.xml.bind.annotation.XmlElementWrapper;
+import javax.xml.bind.annotation.XmlRootElement;
 import java.util.List;
 
+@XmlRootElement(name="magazine")
 public class Magazine {
 
     private String name;
@@ -14,8 +18,16 @@ public class Magazine {
         this.name = name;
     }
 
+    public Magazine() {}
+
     public List<Flower> getFlowers(){
         return flowers;
+    }
+
+    @XmlElementWrapper(name="flowers", nillable = true)
+    @XmlElement(name = "flower")
+    public void setFlowers(List<Flower> flowers) {
+        this.flowers = flowers;
     }
 
     public String getName() {
