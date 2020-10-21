@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<magazine>
+    <flowers>
+        <flower>
+            <name>Rose</name>
+            <price>150.0</price>
+            <type>Rose hip</type>
+        </flower>
+        <flower>
+            <name>Tulip</name>
+            <price>60.0</price>
+            <type>Vascular</type>
+        </flower>
+        <flower>
+            <name>Orchid</name>
+            <price>70.0</price>
+            <type>Monocotyledonous</type>
+        </flower>
+    </flowers>
+</magazine>
